@@ -32,7 +32,7 @@ React • Node.js • Git • Linux
 - Transferred data between PocketBase and Payload servers via custom JavaScript scripts and REST API integrations
 - Made dynamic API calls to Payload CMS to display real-time content, and used Docker to containerize and manage the development environment
 - Managed development tasks, issues, and pull requests using GitHub, maintaining a clean and collaborative version control workflow
-- 
+  
 ## 📫 Contact
 Email: purabsaini8@gmail.com 
 LinkedIn: https://www.linkedin.com/in/purabsaini/
