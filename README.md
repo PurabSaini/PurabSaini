@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Purab 👋
 
 Software Engineer and Computer Science graduate from the University of Washington.
@@ -9,7 +7,7 @@ Java • Python • C/C++ • TypeScript • SQL
 React • Node.js • Git • Linux
 
 ## 💻 Experience
-**Data Infrastructre & CUration Intern — Trialynx**
+**Data Infrastructre & Curation Intern — Trialynx**
 - Contributed to software development tasks in a collaborative engineering environment.
 - Assisted with development and debugging tasks across the application stack.
 
