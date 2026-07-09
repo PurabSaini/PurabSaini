@@ -28,7 +28,7 @@ React • Node.js • Git • Linux
 - Implemented a command-line interface with Java, utilizing SQL for retrieval and storage of flight and customer data
 
  **PGH Market** 
-- Built a full-stack web app to showcase local Pittsburgh businesses and products using Next.js and Chakra UI for a responsive frontend
+- Contributed to a full-stack web app to showcase local Pittsburgh businesses and products using Next.js and Chakra UI for a responsive frontend
 - Transferred data between PocketBase and Payload servers via custom JavaScript scripts and REST API integrations
 - Made dynamic API calls to Payload CMS to display real-time content, and used Docker to containerize and manage the development environment
 - Managed development tasks, issues, and pull requests using GitHub, maintaining a clean and collaborative version control workflow
